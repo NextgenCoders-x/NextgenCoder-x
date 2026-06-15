@@ -21,7 +21,7 @@
 class Mohanraj:
     def __init__(self):
         self.name        = "Mohanraj G"
-        self.location    = "Cheyyar, Tamil Nadu, India 🇮🇳"
+        self.location    = "Thiruvannamalai, Tamil Nadu, India 🇮🇳"
         self.degree      = "MSc Information Technology (2025–Present)"
         self.stack       = ["Python", "JavaScript", "HTML/CSS",
                             "Streamlit", "MySQL", "NLP"]
